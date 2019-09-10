@@ -9,7 +9,7 @@ products:
 - azure-iot-hub
 name: "Azure MXChip IoT DevKit Remote Monitoring"
 description: "Send status of sensors on DevKit to Azure IoT Suite for monitoring."
-urlFragment: "mxchip-iot-devkit-remote-monitoring"
+urlFragment: "sample"
 ---
 
 ## Connect MXChip IoT DevKit AZ3166 to the IoT Remote Monitoring solution accelerator
